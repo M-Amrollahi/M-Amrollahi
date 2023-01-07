@@ -8,6 +8,7 @@
 ##  Programming Languages
 
 <a href="https://python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=2BA1B9" alt="Python logo" title="Python" height="30" /> </a>
+<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=4D90FE" height="30" />
 <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank"> <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=93C6F4" alt="Markdown logo" title="Markdown" height="30" /> </a>
 
 ## Tools
