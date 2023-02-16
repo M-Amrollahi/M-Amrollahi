@@ -18,4 +18,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="30" /> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-282C34?logo=github" alt="GitHub logo" title="GitHub" height="30" /> </a>
 <a href="https://streamlit.io/" target="_blank"> <img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit logo" title="Heroku" height="30" /> </a>
+
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=64AEDC" alt="SQLite logo" title="SQLite" height="30"/> </a>
+<a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-282C34?logo=Numpy&logoColor=64AEDC" alt="Numpy logo" title="Numpy" height="30"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-282C34?logo=Pandas&logoColor=64AEDC" alt="Pandas logo" title="Pandas" height="30"/> </a>
+<a href="https://plotly.com/python/plotly-express/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-282C34?logo=Plotly&logoColor=DDDDDD" alt="Plotly logo" title="Plotly" height="30"/> </a>
